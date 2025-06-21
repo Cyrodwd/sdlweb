@@ -28,6 +28,13 @@
                     <blockquote>
                         <ul>
                             <li> <strong>
+                                    Beef
+                                </strong>
+                                <br/>
+                                SDL3-Beef -
+                                <a href="https://github.com/Booklordofthedings/SDL3-Beef">https://github.com/Booklordofthedings/SDL3-Beef</a>
+                            </li>
+                            <li> <strong>
                                     C#
                                 </strong>
                                 <br/>
@@ -42,11 +49,14 @@
                                 <a href="https://github.com/BindBC/bindbc-sdl">https://github.com/BindBC/bindbc-sdl</a>
                             </li>
                             <li> <strong>
-                                    Delphi
+                                    Delphi / Pascal
                                 </strong>
                                 <br/>
                                 Neslib.Sdl3 -
                                 <a href="https://github.com/neslib/Neslib.Sdl3">https://github.com/neslib/Neslib.Sdl3</a>
+                                <br/>
+                                SDL3 for Pascal -
+                                <a href="https://github.com/PascalGameDevelopment/SDL3-for-Pascal">https://github.com/PascalGameDevelopment/SDL3-for-Pascal</a>
                             </li>
                             <li> <strong>
                                     Nim
@@ -88,7 +98,7 @@
                                 </strong>
                                 <br/>
                                 sdl3-vapi -
-                                <a href="https://github.com/edwood-grant/sdl3-vapi">https://github.com/edwood-grant/sdl3-vapi</a>
+                                <a href="https://codeberg.org/edwood-grant/sdl3-vapi">https://codeberg.org/edwood-grant/sdl3-vapi</a>
                             </li>
                         </ul>
                     </blockquote>
